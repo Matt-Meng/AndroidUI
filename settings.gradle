@@ -1,2 +1,3 @@
 rootProject.name='AndroidUIDemo'
 include ':app'
+include ':app:commonui'
